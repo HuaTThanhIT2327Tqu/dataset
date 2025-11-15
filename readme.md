@@ -15,7 +15,7 @@ The dataset is collected by attaching a camera to the user's chest and connectin
 
 
 
-<img src="anhh.jpg" width="50%">
+<img src="anhh.jpg" width="70%">
 </p>
 ---
 
@@ -176,7 +176,7 @@ Finally, we have the transformation matrix in the form:
 # Dataset README
 
 ## Media
-<img src="cac_fold.png" width="50%">
+<img src="cac_fold.png" width="70%">
 
 ![description](detec_mobilenetv3.gif)
 ---
