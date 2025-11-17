@@ -8,9 +8,7 @@ The dataset is collected by attaching a camera to the user's chest and connectin
 
 <p align="center">
 <div style="display: flex; gap: 10px;">
-  <img src="anh_ben_canh.jpg" width="20%">
-  <img src="anh_doi_dien.jpg" width="20%">
-  <img src="anh_sau_lung.jpg" width="20%">
+  <img src="image.png" width="50%">
 </div>
 
 
