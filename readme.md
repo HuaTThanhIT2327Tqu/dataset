@@ -8,7 +8,7 @@ The dataset is collected by attaching a camera to the user's chest and connectin
 
 <p align="center">
 <div style="display: flex; gap: 10px;">
-  <img src="image.png" width="50%">
+  <img src="image.png" width="70%">
 </div>
 
 
